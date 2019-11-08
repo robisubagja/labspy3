@@ -25,7 +25,7 @@
 
 
 
-<h2> Program 2 (menampilkan bilangan terbesar dari program perulangan)</h2>
+<h2> Latihan2 (menampilkan bilangan terbesar dari program perulangan)</h2>
 
 1. Alur algoritma nya : 
 
@@ -41,7 +41,7 @@
  	![photo](https://user-images.githubusercontent.com/56831922/68460123-9dad6780-0239-11ea-9901-4171ff122a92.jpg)
 	
 
-<h3> program 3 ( menampilkan bilangan acak dibawah bilangan 0,5 ) </h3>
+<h3> Latihan1 ( menampilkan bilangan acak dibawah bilangan 0,5 ) </h3>
 
  1. Alur algoritma nya :
     - n=int(input("masukan bilangan N :  ")) = fungsi nya agar bisa melakukan input bilangan bulat dengan dideklarasikan 
