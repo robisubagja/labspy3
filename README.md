@@ -2,7 +2,7 @@
 
 1. alur algoritma nya :
 
-  - uang = 100000000 pengusaha mempunyai modal sebesar 100 juta uang sebagai variable
+  - uang = 100000000 pengusaha mempunyai modal sebesar 100 juta dan uang adalah variable nya
   - SUM = 0 perintah SUM digunakan untuk menjumlah 
   - y = 0 dan variable y digunakan untuk bulan 
   - laba = (int(0),int(0),int(uang)*.1,int(uang)*.1, int(uang)*.5,int(uang)*.5,int(uang)*.5,int(uang)*.2)
