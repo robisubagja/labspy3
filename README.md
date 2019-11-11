@@ -58,7 +58,12 @@
       dengan batas awal bilangan x dan batasan akhir bilangan y pada syntax ini batas awal bilangan nya adalah 0.1 dan
       batas akhir nya 0.5
       
- 2. hasil program :
+ 2. Flowchart
+ 
+    ![Screenshot_2019-11-11-21-56-10-834_com google android apps docs](https://user-images.githubusercontent.com/56831922/68596716-3f4ce700-04ce-11ea-80a7-4938c33b2e52.png)
+
+      
+ 3. hasil program :
  	
 	![photo3](https://user-images.githubusercontent.com/56831922/68460542-b79b7a00-023a-11ea-8a65-2c39322f41bd.jpg)
 
