@@ -36,7 +36,12 @@
    - if x == 0 : break jika inputan x diisi angka 0 maka proses perulangan akan berhenti
    - print("Bilangan terbesar adalah : ",max) print nilai terbesar, variabel max
    
- 2. hasil program :
+ 2. Flowchart
+ 
+    ![Screenshot_2019-11-11-18-50-00-810_com google android apps docs](https://user-images.githubusercontent.com/56831922/68585265-58e13500-04b4-11ea-9986-7a13bf40bd84.png)
+
+   
+ 3. hasil program :
  
  	![photo](https://user-images.githubusercontent.com/56831922/68460123-9dad6780-0239-11ea-9901-4171ff122a92.jpg)
 	
